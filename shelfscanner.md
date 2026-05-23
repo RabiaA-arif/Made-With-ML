@@ -2,10 +2,22 @@
 
 ## Background 
 Describe customers pain points and goals
-Customer reached at book shop for buying book but confuse to see a lot of books and ended up with buy nothing
+
+**Users**: Customer that want to buy book from book shop
+
+**Goals**: AI system sugest books according to customer liking
+
+**Pains**: Customer reached at book shop for buying book but 
+confuse to see a lot of books and ended up with buy nothing
 
 ## Value Proposition
 Purpose the product with the value it create and allivates the pain points
+
+**Product**: A Scanner that extract information from book shelf image and sugests best suitable book
+
+**Alleviates**: Reduce the confusion for buying which book is best
+
+**Advantage**: Libraries , books shop keepers use this product to create easyness of their customer
 
 
 
