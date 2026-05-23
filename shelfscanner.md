@@ -29,6 +29,29 @@ Identifying the training and production data source as well as lableling process
 
 
 
+## Metrics
+Prioritize the key matrics that reflects the objectives
+
+
+## Evaluation
+Design offline and online evaluation criteria
+
+
+
+##  Modeling
+list the iterative approach to model our task
+
+
+
+## Inference
+Decide wheather we want to do batch or real time inference
+
+
+## Feedback
+outline the sources of feedback from our system to use for iteration
+
+## Project
+Define the requirments for this project
 
 
 
@@ -40,6 +63,7 @@ Identifying the training and production data source as well as lableling process
 
 
 
+Disclamair : This templte credited go to the "Goku Mohandas"
 
 
 
