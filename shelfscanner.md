@@ -11,6 +11,19 @@ Describe customers pain points and goals
 confuse to see a lot of books and ended up with buy nothing
 
 ## Value Proposition
+
+what is the problem?
+
+what are the objectives we are serving
+
+what are we trying to do for end user
+
+why is it important
+
+who is end user can we specify the persona
+
+**For (target customer) who (need or opportunity), our (product/service name) is (product category) that (benefit).**
+
 Purpose the product with the value it create and allivates the pain points
 
 **Product**: A Scanner that extract information from book shelf image and sugests best suitable book
@@ -38,6 +51,21 @@ Discuss the feasibility of the solution and if we have the required resources
 ## Data
 Identifying the training and production data source as well as lableling process and decision
 
+Internal/External databases
+
+Data marts ,Data warehouse
+
+Hadoop clusters
+
+REST API's to gather data
+
+Static files and Spreadsheet
+
+web Scraping
+
+The output of other ml systems
+
+open source data sets
 
 
 
