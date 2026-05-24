@@ -81,6 +81,26 @@ Design offline and online evaluation criteria
 ##  Modeling
 list the iterative approach to model our task
 
+## Prediction Task
+
+superviced and unsuperviced learning
+
+Is this anomaly detection ?
+
+Is the problem about which option should be taken?
+
+Do we need to predict a continuous value? (regression)
+
+Which category need to be predicted? (classification
+
+Do we need to group our data? (clustering)
+
+If supervised, what type of ML task should be taken: classification, regression, or ranking?
+
+If classification, will it be binary- or multiclass classification task?
+
+What is the input for a prediction task?
+
 
 
 ## Inference
