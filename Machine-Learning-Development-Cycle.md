@@ -32,5 +32,30 @@
 `model performence logging`
 
 
+# MLops Worlflow
+
+**Iterative-Incremental Process in MLOps**
+
+**Automation**
+
+**Continuous X**
+
+**Versioning**
+
+**Expriments**
+
+**Testing**
+
+**Monitoring**
+
+**ML Test Score System**
+
+**Reproducibility**
+
+**Loosely Coupled Architecture (Modularity)**
+
+**ML-based Software Delivery Metrics (4 metrics from “Accelerate”)**
+
+
 
 
