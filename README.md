@@ -3,4 +3,10 @@
 
 ## I used mlops operation for building this project 
 
-end to end production ready project 
+end to end production ready project
+# Diary study 
+## research for product 
+user requirements 
+pain point 
+user interview 
+
