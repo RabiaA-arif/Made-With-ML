@@ -45,6 +45,21 @@
 `data availability check`
 
 **Model Development**
+
+`data engineering model`
+
+`ml model engineering`
+
+`model testing and validation`
+
+**operations**
+
+`ml model development`
+
+`CI/CD pipeline`
+
+`Monitoring and triggering`
+
 <img width="1001" height="501" alt="image" src="https://github.com/user-attachments/assets/0881e520-9229-48c4-8276-c0a03120d4fd" />
 
 
