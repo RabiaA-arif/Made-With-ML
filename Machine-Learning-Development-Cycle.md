@@ -36,6 +36,19 @@
 
 **Iterative-Incremental Process in MLOps**
 
+**Design**: 
+
+`requirements engineering`
+
+`Ml use case priotization`
+
+`data availability check`
+
+**Model Development**
+<img width="1001" height="501" alt="image" src="https://github.com/user-attachments/assets/0881e520-9229-48c4-8276-c0a03120d4fd" />
+
+
+
 **Automation**
 
 **Continuous X**
