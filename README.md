@@ -1,4 +1,4 @@
-# Book shelf scanner 
+# AI powered book discovery and recommendation system
 ## End to end machine learning portfolio project 
 
 ## I used mlops operation for building this project 
