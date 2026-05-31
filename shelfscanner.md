@@ -38,9 +38,29 @@ Purpose the product with the value it create and allivates the pain points
 ## Objectives 
 Breakdown the product into key objectives that need to be deliverd 
 
+The objective of this project is to develop an AI-powered book discovery system that analyzes physical bookshelves using computer vision and OCR techniques, identifies available books, and provides personalized recommendations and contextual information to help users make faster and more informed book-purchasing decisions while reducing decision fatigue in bookstore environments.
 
 ## Solution 
 Define the solution which including ,features,contraints ,and what is out of scope
+
+`Detects books in the image`
+
+`Extracts book titles and authors`
+
+`Retrieves metadata about detected books`
+
+`Analyzes user preferences`
+
+`Generates personalized recommendations`
+
+`Displays useful information to support decision-making`
+
+**MVP**
+features -1 : book shelfscanning
+feature -2 : book recognition
+feature -3 : book information
+feature -4 : personalized information
+feature -5 : similar books
 
 
 ## Feasibility
